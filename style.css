@@ -69,7 +69,7 @@ max-width: 425px;    /* 📍 Cвойство для ограничения ши�
 .about-section .wrapper {
 display: flex;
 flex-direction: column;
-gap: 60px 79px;
+gap: 60px;
   /* 📍 Свойствa flexbox для отступов между элементами select, .info-wrapper и .skills-wrapper  */
 }
 
